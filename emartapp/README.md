@@ -51,3 +51,8 @@ Get the public ip and visit the emart webapp
 ![](20230706105737.png)
 
 ![](20230706105711.png)
+
+
+### References
+
+https://docs.docker.com/engine/install/ubuntu/

@@ -23,7 +23,7 @@ ec2 specifications:
 
 ```sh
 https://github.com/colossus06/microservices-ec2-nginx.git
-cd microservices-ec2-nginx/emartapp
+cd microservices-ec2-nginx
 ```
 
 Build the images. During this process, Docker Compose will look for the Dockerfiles defined in the build sections for each service(ANGULAR,node,java in this case) and executes the build steps specified in the file. 

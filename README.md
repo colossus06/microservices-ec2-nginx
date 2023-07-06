@@ -1,7 +1,7 @@
 # emart-app
 
 
-![](20230706110555.png)
+![](images/20230706110555.png)
 
 client: angular app hosted in nginx container
 apigateway: nginx
@@ -40,17 +40,17 @@ docker compose up -d
 
 
 
-![](20230706105316.png)
+![](images/20230706105316.png)
 
-![](20230706110007.png)
+![](images/20230706110007.png)
 
 ## Validation
 
 Get the public ip and visit the emart webapp
 
-![](20230706105737.png)
+![](images/20230706105737.png)
 
-![](20230706105711.png)
+![](images/20230706105711.png)
 
 
 ### References
